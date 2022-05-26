@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-import './school.css';
+//import './school.css';
 
 const School = () => {
     const [sschoolregid,setSschoolregid] = useState('');
